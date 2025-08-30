@@ -32,3 +32,12 @@ configs/example/memcheck.cfg
 configs/dram/lowp_sweep.cfg
 .pyenv
 .vscode
+
+network_stats*.txt
+noc*.csv
+preliminary.sh
+noc_hops_throughput.png
+
+lab1/lab*.md
+lab2/m5out
+lab2/lab*.md
